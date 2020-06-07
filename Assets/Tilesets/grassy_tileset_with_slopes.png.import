@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassy_tileset_with_slopes.png-cca2146e2526f2913dfdc20af1ac1fe6.stex"
+path="res://.import/grassy_tileset_with_slopes.png-79d18a2e24daef0e7e0073b954c167e4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/grassy_tileset_with_slopes.png"
-dest_files=[ "res://.import/grassy_tileset_with_slopes.png-cca2146e2526f2913dfdc20af1ac1fe6.stex" ]
+source_file="res://Assets/Tilesets/grassy_tileset_with_slopes.png"
+dest_files=[ "res://.import/grassy_tileset_with_slopes.png-79d18a2e24daef0e7e0073b954c167e4.stex" ]
 
 [params]
 

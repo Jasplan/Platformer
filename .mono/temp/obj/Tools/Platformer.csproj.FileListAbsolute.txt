@@ -1,0 +1,6 @@
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\bin\Tools\Platformer.dll
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\bin\Tools\Platformer.pdb
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.csprojAssemblyReference.cache
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.csproj.CoreCompileInputs.cache
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.dll
+D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.pdb

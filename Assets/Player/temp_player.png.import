@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassy_tileset.png-c925cc7f4bdfde7c679d96fa76522e11.stex"
+path="res://.import/temp_player.png-23bea0620e3262a007a34ac742701c31.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/grassy_tileset.png"
-dest_files=[ "res://.import/grassy_tileset.png-c925cc7f4bdfde7c679d96fa76522e11.stex" ]
+source_file="res://Assets/Player/temp_player.png"
+dest_files=[ "res://.import/temp_player.png-23bea0620e3262a007a34ac742701c31.stex" ]
 
 [params]
 
