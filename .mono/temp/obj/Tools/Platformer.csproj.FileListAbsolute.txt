@@ -4,3 +4,9 @@ D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.cspr
 D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.csproj.CoreCompileInputs.cache
 D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.dll
 D:\Programmering\Godot  Projects\Platformer\.mono\temp\obj\Tools\Platformer.pdb
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\bin\Tools\Platformer.dll
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\bin\Tools\Platformer.pdb
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\obj\Tools\Platformer.csprojAssemblyReference.cache
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\obj\Tools\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\obj\Tools\Platformer.dll
+C:\Users\Just an annoying cat\Desktop\Platformer\.mono\temp\obj\Tools\Platformer.pdb
