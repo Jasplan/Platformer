@@ -21,8 +21,8 @@ public class Player : KinematicBody2D
     // Called every frame. 'delta' is the elapsed time since the previous frame.
     public override void _Process(float delta)
     {
-        gravity += 2;
-        inputDirection.y = gravity;
+        
+        
 
         Boolean inputMagnitude = false;
 
@@ -37,14 +37,21 @@ public class Player : KinematicBody2D
         if(IsOnFloor()){
             gravity = 0;
             if(Input.IsActionJustPressed("ui_up")){
-                gravity = -500;
+                gravity = -100;
             }
 
         }
-        
+        else if(!IsOnFloor()){
+            gravity += 2;
+            if(IsOnWall() && gravity < 0){
+                gravity = 0;
+            }
+        }
+
+
 
         
-        
+        inputDirection.y = gravity;
         MoveAndSlide(inputDirection, UP);
     }
 }
