@@ -37,13 +37,13 @@ public class Player : KinematicBody2D
         if(IsOnFloor()){
             gravity = 0;
             if(Input.IsActionJustPressed("ui_up")){
-                gravity = -100;
+                gravity = -200;
             }
 
         }
         else if(!IsOnFloor()){
             gravity += 2;
-            if(IsOnWall() && gravity < 0){
+            if(IsOnCeiling() && gravity < 0){
                 gravity = 0;
             }
         }
