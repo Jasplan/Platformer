@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kench.png-5c3f34e59b2914197f85cf3596079b04.stex"
+path="res://.import/walking_right_kench_spritesheet.png-41391c29f46ad2d67ca39fb7f24ab4b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Player/kench.png"
-dest_files=[ "res://.import/kench.png-5c3f34e59b2914197f85cf3596079b04.stex" ]
+source_file="res://Assets/Player/walking_right_kench_spritesheet.png"
+dest_files=[ "res://.import/walking_right_kench_spritesheet.png-41391c29f46ad2d67ca39fb7f24ab4b6.stex" ]
 
 [params]
 

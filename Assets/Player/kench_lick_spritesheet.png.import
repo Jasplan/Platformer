@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kench.png-5c3f34e59b2914197f85cf3596079b04.stex"
+path="res://.import/kench_lick_spritesheet.png-e4c992c66a66f9eb9e656bdd53b0f13b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Player/kench.png"
-dest_files=[ "res://.import/kench.png-5c3f34e59b2914197f85cf3596079b04.stex" ]
+source_file="res://Assets/Player/kench_lick_spritesheet.png"
+dest_files=[ "res://.import/kench_lick_spritesheet.png-e4c992c66a66f9eb9e656bdd53b0f13b.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2

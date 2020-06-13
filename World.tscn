@@ -755,7 +755,7 @@ points = PoolVector2Array( 0, 8, 16, 0, 16, 16, 0, 16, 0, 8 )
 script = ExtResource( 2 )
 
 [node name="Player" parent="." instance=ExtResource( 3 )]
-position = Vector2( 284.402, 24.3556 )
+position = Vector2( 259, 41 )
 
 [node name="Ground" type="TileMap" parent="."]
 tile_set = SubResource( 76 )

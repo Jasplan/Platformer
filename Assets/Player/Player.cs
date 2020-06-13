@@ -10,10 +10,13 @@ public class Player : KinematicBody2D
     Vector2 mousPos = Vector2.Zero;
     Vector2 UP = Vector2.Zero; 
     
+    AnimationPlayer animator = null;
+
 
     // Called when the node enters the scene tree for the first time.
     public override void _Ready()
     {
+        animator = GetNode<AnimationPlayer>("Animation");
         UP.x = 0;
         UP.y = -1;
     }
@@ -33,11 +36,20 @@ public class Player : KinematicBody2D
         inputDirection.x = Input.GetActionStrength("ui_right") - Input.GetActionStrength("ui_left");
         inputDirection.x *= 100;
         
+        
 
         if(IsOnFloor()){
             gravity = 0;
             if(Input.IsActionJustPressed("ui_up")){
                 gravity = -200;
+            }
+            if (inputDirection.x <= 0 ){
+                animator.Play("WalkLeft");
+                
+            }
+            else if(inputDirection.x >= 0){
+                animator.Play("WalkRight");
+                
             }
 
         }
